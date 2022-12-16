@@ -54,13 +54,6 @@ To run the program:
 ```
 
 
-
-![last](https://miro.medium.com/max/300/1*ZFBsKK2_8BHSgsOjJb9MLQ.png)
-
-
-
-
-
 ## gcc -Wall -Werror -Wextra -pedantic *.c -o monty
 
 
